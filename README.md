@@ -1,12 +1,12 @@
-# Salom, men [Ismingiz]!
+# Salom, men [Madina]!
 
-## Haqimda
+## O`zim haqimda
 - 👨‍💻 Men dasturchiman
 - 🔭 Hozirda [loyiha/kompaniya] ustida ishlayapman
 - 🌱 Hozirda [o'rganayotgan texnologiya/mavzu] o'rganayapman
 - 💬 Mendan [suhbat mavzusi] haqida so'rashingiz mumkin
-- 📫 Menga qanday bog'lamishiz mumkin: [asilbekahmedov1246@gmail.com]
-- 🌐 Telegram kanalimiz: [https://t.me/asilbekahmedov1]
+- 📫 Menga qanday bog'lamishiz mumkin: [madinaxayrullayeva083@gmail.com]
+- 🌐 Telegram kanalimiz: [https://t.me/+lb91qvY1Xjw1ZmNi]
 ## Texnologiyalar va Asboblar
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
