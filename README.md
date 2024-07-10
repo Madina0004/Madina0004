@@ -17,7 +17,7 @@
 ## Mening loyihalarim
 ### [Loyiha nomi 1]
 - [Loyiha 1 haqida qisqacha ma'lumot]
-- GitHub sahifasi: [Loyiha 1 GitHub havolasi]
+- GitHub sahifasi: [https://github.com/Asilbekhhhjj/Asilbekhhhjj.git]
 
 ### [Loyiha nomi 2]
 - [Loyiha 2 haqida qisqacha ma'lumot]
