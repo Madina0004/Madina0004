@@ -68,7 +68,7 @@
 </div>
  :mag:Tarmoq :
 <div id="badges">
-  <a href="https://www.instagram.com/madinaxayrullayeva_04?igsh=YmF3azQzeDVwbmpv">
+  <a href="https://t.me/+lb91qvY1Xjw1ZmNi">
       <img src="https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white">
   </a>
   <a href="https://www.instagram.com/madinaxayrullayeva_04?igsh=YmF3azQzeDVwbmpv">
