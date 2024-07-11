@@ -74,13 +74,7 @@
   <a href="https://www.instagram.com/madinaxayrullayeva_04?igsh=YmF3azQzeDVwbmpv">
     <img src="https://img.shields.io/badge/instagram-red?logo=instagram&logoColor=white">
   </a>
-  <a href="https://www.facebook.com/profile.php?id=100080811552936&mibextid=ZbWKwL">
-      <img src="https://img.shields.io/badge/facebook-white?logo=facebook&logoColor=blue">
-  </a>
-  <a href="https://www.youtube.com/@SporSaga_TV">
-    <img src="https://img.shields.io/badge/youtube-white?logo=youtube&logoColor=red">
-  </a>
-    </div>
+
  <br>
   <img src="https://komarev.com/ghpvc/?username=freedom-1&label=PROFILNI+KO'RISHLAR+SONI" alt=""/
 
